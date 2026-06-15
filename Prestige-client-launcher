@@ -1,0 +1,18 @@
+// ==UserScript==
+// @name         Prestige Client (script laucher)
+// @namespace    http://tampermonkey.net/
+// @version      1.0.0
+// @description  try to take over the world!
+// @author       CartoonBloxd
+// @match        https://bloxd.io/*
+// @match        https://playbloxd.io/*
+// @match        https://https://doodlecube.io//*
+// @match        https://bloxdhop.io/*
+// @match        https://eviltower.io/*
+// @match        https://playbloxd.com/*
+// @match        https://buildminecreate.io/*
+// @match        https://buildhub.work/*
+// @icon         data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%2224%22%20height=%2224%22%20viewBox=%220%200%2024%2024%22%20fill=%22none%22%20stroke=%22%23FFFFFF%22%20stroke-width=%222%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22%20class=%22icon%20icon-tabler%20icons-tabler-outline%20icon-tabler-sparkles%22%3E%3Cpath%20stroke=%22none%22%20d=%22M0%200h24v24H0z%22%20fill=%22none%22%20/%3E%3Cpath%20d=%22M16%2018a2%202%200%200%201%202%202a2%202%200%200%201%202%20-2a2%202%200%200%201%20-2%20-2a2%202%200%200%201%20-2%202m0%20-12a2%202%200%200%201%202%202a2%202%200%200%201%202%20-2a2%202%200%200%201%20-2%20-2a2%202%200%200%201%20-2%202m-7%2012a6%206%200%200%201%206%20-6a6%206%200%200%201%20-6%20-6a6%206%200%200%201%20-6%206a6%206%200%200%201%206%206%22%20/%3E%3C/svg%3E
+// @grant        none
+// @require      https://raw.githubusercontent.com/esdrastetangtetang-ctrl/prestige-client-bloxd/refs/heads/main/prestige-client-bloxd
+// ==/UserScript==

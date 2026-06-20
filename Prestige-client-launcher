@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Prestige Client (the script laucher)
 // @namespace    http://tampermonkey.net/
-// @version      1.0.0
+// @version      1.2.0
 // @description  try to take over the world!
 // @author       CartoonBloxd
 // @match        https://bloxd.io/*
@@ -17,6 +17,6 @@
 // @require      https://raw.githubusercontent.com/esdrastetangtetang-ctrl/prestige-client-bloxd/refs/heads/main/prestige-client-bloxd
 // ==/UserScript==
 (() => {
-    alert('have a good time with stealed data 💀😀((no jst a joke its safe and truste by my friends)');
+    alert('have a good time with stealed data 💀😀(no jst a joke its safe and trusted by my friends)');
 })();
 
